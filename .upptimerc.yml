@@ -26,7 +26,8 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/75553731
   name: Ashie's Uptime
   introTitle: "meow"
-  introMessage: a catgirl status page
+  introMessage: a catgirl status page :3
+  navbar:
     - title: Status
       href: /
     - title: GitHub
