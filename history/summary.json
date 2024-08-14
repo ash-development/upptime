@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 85,
     "timeDay": 72,
-    "timeWeek": 85,
+    "timeWeek": 87,
     "timeMonth": 85,
     "timeYear": 85,
     "dailyMinutesDown": {}
@@ -22,18 +22,20 @@
     "url": "https://ashie.lol",
     "icon": "https://icons.duckduckgo.com/ip3/ashie.lol.ico",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 224,
-    "timeDay": 207,
-    "timeWeek": 224,
-    "timeMonth": 224,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "time": 213,
+    "timeDay": 158,
+    "timeWeek": 218,
+    "timeMonth": 213,
+    "timeYear": 213,
+    "dailyMinutesDown": {
+      "2024-08-14": 0
+    }
   },
   {
     "name": "ShareX Server",
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 295,
     "timeDay": 98,
-    "timeWeek": 295,
+    "timeWeek": 311,
     "timeMonth": 295,
     "timeYear": 295,
     "dailyMinutesDown": {}
@@ -59,14 +61,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bookmark-manager",
     "status": "up",
-    "uptime": "90.12%",
+    "uptime": "90.51%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.12%",
-    "uptimeMonth": "90.12%",
-    "uptimeYear": "90.12%",
+    "uptimeWeek": "91.87%",
+    "uptimeMonth": "90.51%",
+    "uptimeYear": "90.51%",
     "time": 299,
     "timeDay": 281,
-    "timeWeek": 299,
+    "timeWeek": 353,
     "timeMonth": 299,
     "timeYear": 299,
     "dailyMinutesDown": {
@@ -86,7 +88,7 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 101,
-    "timeWeek": 184,
+    "timeWeek": 176,
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {}
@@ -104,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 10,
     "timeDay": 1,
-    "timeWeek": 10,
+    "timeWeek": 11,
     "timeMonth": 10,
     "timeYear": 10,
     "dailyMinutesDown": {}
