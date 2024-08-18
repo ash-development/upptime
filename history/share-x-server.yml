@@ -1,7 +1,7 @@
 url: $SHAREX
-status: down
-code: 503
-responseTime: 273
-lastUpdated: 2024-08-17T23:12:25.729Z
+status: up
+code: 200
+responseTime: 396
+lastUpdated: 2024-08-18T06:19:22.392Z
 startTime: 2024-08-07T05:42:40.723Z
 generator: Upptime <https://github.com/upptime/upptime>
