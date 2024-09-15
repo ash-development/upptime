@@ -86,18 +86,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "jellyfin-server",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.90%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.90%",
     "time": 303,
     "timeDay": 229,
     "timeWeek": 247,
     "timeMonth": 333,
     "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-09-15": 0,
+      "2024-09-15": 42,
       "2024-08-23": 18
     }
   },
@@ -106,7 +106,7 @@
     "url": "$VPS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -118,6 +118,7 @@
     "timeMonth": 34,
     "timeYear": 29,
     "dailyMinutesDown": {
+      "2024-09-15": 0,
       "2024-08-23": 18
     }
   }
