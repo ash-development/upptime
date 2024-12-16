@@ -13,8 +13,12 @@ sites:
     url: $BOOKMARK
   - name: Jellyfin Server
     url: $JELLYFIN
-  - name: VPS
+  - name: Main VPS
     url: $VPS
+    port: 80
+    check: "tcp-ping"
+  - name: Nginx VPS
+    url: $NGINXVPS
     port: 80
     check: "tcp-ping"
 
