@@ -9,8 +9,6 @@ sites:
     url: https://ashie.lol
   - name: ShareX Server
     url: $SHAREX
-  - name: Bookmark Manager
-    url: $BOOKMARK
   - name: Jellyfin Server
     url: $JELLYFIN
   - name: Main VPS
