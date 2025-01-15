@@ -7,6 +7,8 @@ sites:
     url: https://www.google.com
   - name: Main Site
     url: https://ashie.lol
+  - name: Webmail
+    url: https://mail.ashie.lol
   - name: ShareX Server
     url: $SHAREX
   - name: Jellyfin Server
@@ -14,6 +16,10 @@ sites:
   - name: Main VPS
     url: $VPS
     port: 80
+    check: "tcp-ping"
+  - name: Mail
+    url: 5.161.195.30
+    port: 443
     check: "tcp-ping"
 
 status-website:
